@@ -1,0 +1,3 @@
+inference_sdk
+pandas
+opencv-python
